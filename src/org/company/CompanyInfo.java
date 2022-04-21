@@ -3,6 +3,7 @@ package org.company;
 public class CompanyInfo {
 	public void companyname() {
 		System.out.println("company name is Biotech");
+		System.out.println("Eastman Exports Global Clothing pvt Ltd");
 	}
 	public void companyid() {
 		System.out.println("company id is 56342");
